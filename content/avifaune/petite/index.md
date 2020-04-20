@@ -20,3 +20,7 @@ image:
 ---
 
 # Petite avifaune
+
+## Photos
+
+{{< gallery album="img" >}}

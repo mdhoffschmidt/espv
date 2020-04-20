@@ -20,3 +20,7 @@ image:
 ---
 
 # Avifaune aquatique
+
+## Photos
+
+{{< gallery album="img" >}}

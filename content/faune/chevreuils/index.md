@@ -20,3 +20,8 @@ image:
 ---
 
 # Chevreuil
+
+
+## Photos
+
+{{< gallery album="img" >}}

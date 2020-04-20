@@ -20,3 +20,7 @@ image:
 ---
 
 # Grande avifaune
+
+## Photos
+
+{{< gallery album="img" >}}
