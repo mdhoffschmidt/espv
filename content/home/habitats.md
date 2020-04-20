@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Habitats"
-subtitle = ""
+subtitle = "Ici il faut mettre un soustitre"
 
 [content]
   # Page type to display. E.g. project.

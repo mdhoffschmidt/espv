@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Faune"
-subtitle = ""
+subtitle = "Ici il faut mettre un soustitre"
 
 [content]
   # Page type to display. E.g. project.
