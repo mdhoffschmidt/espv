@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Nos emblématiques"
-subtitle = ""
+subtitle = "Certains habitants méconnus de notre région pourront vous étonner."
 
 [content]
   # Page type to display. E.g. project.
@@ -61,7 +61,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "header/esperance_verte.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
