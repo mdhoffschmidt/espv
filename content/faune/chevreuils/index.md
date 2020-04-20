@@ -1,12 +1,12 @@
 ---
 title: "Chevreuil"
-subtitle: ""
-summary: " "
+subtitle: "Ici il faut un soustitre"
+summary: "Ici il faut un résumé"
 authors: []
 tags: []
 categories: []
-date: 2019-06-26
-lastmod: 2019-06-26
+date: 2020-04-20
+lastmod: 2020-04-20
 featured: true
 draft: false
 

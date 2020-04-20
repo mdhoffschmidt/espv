@@ -1,12 +1,12 @@
 ---
 title: "Grande aigrette"
-subtitle: ""
-summary: " "
+subtitle: "Ici il faut un soustitre"
+summary: "Ici il faut un résumé"
 authors: []
 tags: []
 categories: []
-date: 2019-06-26
-lastmod: 2019-06-26
+date: 2020-04-20
+lastmod: 2020-04-20
 featured: true
 draft: false
 featured_image: "/img/header/biodiversite.jpg"
@@ -28,6 +28,6 @@ Ce grand héron blanc connaît une très forte expansion de son aire de réparti
 
 [http://biodiversite.wallonie.be/fr/ardea-alba](http://biodiversite.wallonie.be/fr/ardea-alba.html?IDD=50334300&IDC=314)
 
-## Observations 
+## Observations
 
 Chaque année ce bel échassier blanc vient hiverner chez nous et passe régulièrement de Fazone à Rolley.
