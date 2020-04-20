@@ -1,7 +1,7 @@
 ---
 title: "Grande avifaune"
-subtitle: ""
-summary: " "
+subtitle: "Ici il faut un soustitre"
+summary: "Ici il faut un résumé"
 authors: []
 tags: []
 categories: []
@@ -20,7 +20,3 @@ image:
 ---
 
 # Grande avifaune
-
-## Photos
-
-{{< gallery album="img" >}}
