@@ -21,3 +21,7 @@ image:
 ---
 
 # Étangs et zones humides
+
+## Photos
+
+{{< gallery album="img" >}}

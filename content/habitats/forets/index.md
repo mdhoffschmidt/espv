@@ -26,3 +26,7 @@ La forêt locale se partage entre des parcelles d'épicéas (appelés communéme
 Les parcelles feuillues (hêtres, chênes, érables,...) contiennent en général une plus grande biodiversité tant sur le plan faune que la flore.
 
 {{< figure src="img/chemin_recogne_013" title="A caption" lightbox="true" >}}
+
+## Photos
+
+{{< gallery album="img" >}}

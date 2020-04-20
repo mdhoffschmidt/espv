@@ -29,3 +29,8 @@ Notre région dispose d'une riches prairies
 
 ![](/img/gallerie/prairies/prairie_02.jpg)
 *Prairies en Automne entre les villages de Recogne et Cobru* -->
+
+
+## Photos
+
+{{< gallery album="img" >}}
