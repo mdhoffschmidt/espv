@@ -1,7 +1,7 @@
 ---
-title: "Autres"
+title: "Les Carnassiers"
 subtitle: "Ici il faut un soustitre"
-summary: "Ici il faut un résumé"
+summary: "Renard, ..."
 authors: []
 tags: []
 categories: []
@@ -9,6 +9,7 @@ date: 2020-04-20
 lastmod: 2020-04-20
 featured: true
 draft: false
+weight: 30
 featured_image: "/img/header/biodiversite.jpg"
 
 # Featured image
@@ -20,7 +21,7 @@ image:
   preview_only: false
 ---
 
-# Autres
+# Les Carnassiers
 
 ## Photos
 

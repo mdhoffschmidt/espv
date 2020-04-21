@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Milan Royal"
 subtitle: "Ici il faut un soustitre"
 summary: "Ici il faut un résumé"
@@ -33,3 +31,5 @@ Les Milans ont une envergure un peu supérieure à celle de la Buse variable et 
 Chaque année plusieurs nids sont repérés dans 'notre' zone.
 Cela explique la présence quasi-permanente de ce beau rapace qui dispute
 souvent son domaine de chasse avec les buses au dessus des larges espaces de pâtures et prairies.
+
+## Quelques preuvent certifiées locales

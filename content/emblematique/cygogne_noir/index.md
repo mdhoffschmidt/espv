@@ -33,8 +33,12 @@ De la taille du Héron cendré, la Cigogne noir a un plumage noir, à l'exceptio
 ## Observations
 
 Chaque année la Cigogne Noire est observée à l’étang de Fazone, dans la zone humide et
-les étangs du ruisseau de Darimont (Pré Famine) et en vol entre les 2 zones.
+les étangs du ruisseau de Darimont (Pré Famine), les étangs de Rolley, le ruisseau de Niblamont,  et en vol entre ces différentes zones.
 Voici un commentaire d’un amoureux de la nature, un 'lève tôt', reçu début avril 2019:
 
 "J'ai observé de manière presque annuelle des cigognes noires dans les environs de Recogne ou à Recogne. Il y avait, il y a quelques années, un nid à Rolley et je ne sais pas s'il est encore présent. Si ce n'est pas le cas, il doit y avoir un ou plusieurs nids pas très loin car les jeunes viennent pêcher durant l'été dans les petits ruisseaux à proximité. J'ai vu à de nombreuses reprises des cigognes en été, au petit matin qui venait pêcher dans le ruisseau du Pré Famine (surtout en aval de l'étang). J'ai comme superbe souvenir d'avoir été, très tôt le matin, survolé par une cigogne qui est passée à moins de cinq mètres au-dessus de ma tête (il y a peut-être dix ans déjà) : quand on sait qu'elle sont très farouches, c'est un souvenir exceptionnel !  J'en ai également observé quelques-unes perchées dans des arbres de Recogne. Aussi, en vol au dessus du village ou au-dessus de l'étang de Fazône. Pour l'instant, cela ne peut être que des adultes et ils sont normalement déjà tous revenus. Les jeunes sont encore loin d'être nés...
 A bientôt, Benjamin."
+
+## Quelques preuves certifiées locales
+
+TODO ici il faut placer 2 photos.
