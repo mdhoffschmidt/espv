@@ -26,7 +26,12 @@ image:
 
 Ce grand héron blanc connaît une très forte expansion de son aire de répartition, depuis le sud-est de l'Europe. Si la première mention de la Grande Aigrette en Wallonie remonte seulement à deux décennies, elle y est maintenant couramment observée, surtout en automne et en hiver. Une première nidification pour la région pourrait avoir lieux très bientôt.
 
-[http://biodiversite.wallonie.be/fr/ardea-alba](http://biodiversite.wallonie.be/fr/ardea-alba.html?IDD=50334300&IDC=314)
+## Fiche descriptive
+
+Des fiches descriptives détaillées peuvent être trouvées ici :
+
+* [http://biodiversite.wallonie.be/fr/ardea-alba](http://biodiversite.wallonie.be/fr/ardea-alba.html?IDD=50334300&IDC=314)
+* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 

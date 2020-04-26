@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
 title = "Nos emblématiques"
-subtitle = "Certains habitants méconnus de notre région pourront vous étonner."
+subtitle = "Notre portion d'Ardenne a le privilège d'héberger quelques espèces d'oiseaux mythiques et légalement protégés."
 
 [content]
   # Page type to display. E.g. project.

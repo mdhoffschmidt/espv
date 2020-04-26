@@ -24,7 +24,12 @@ Le Milan royal montre une forte expansion en Wallonie depuis le début des anné
 
 Les Milans ont une envergure un peu supérieure à celle de la Buse variable et présentent une queue fourchue. Le Milan royal a un plumage brun-roux et la tête grise. En vol, des « fenêtres » blanches sont visibles dans ses ailes. Il a une queue rousse profondément échancrée.
 
-[http://biodiversite.wallonie.be/fr/milvus-milvus](http://biodiversite.wallonie.be/fr/milvus-milvus.html?IDD=50334091&IDC=312)
+## Fiche descriptive
+
+Des fiches descriptives détaillées peuvent être trouvées ici :
+
+* [http://biodiversite.wallonie.be/fr/milvus-milvus](http://biodiversite.wallonie.be/fr/milvus-milvus.html?IDD=50334091&IDC=312)
+* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 
@@ -33,3 +38,7 @@ Cela explique la présence quasi-permanente de ce beau rapace qui dispute
 souvent son domaine de chasse avec les buses au dessus des larges espaces de pâtures et prairies.
 
 ## Quelques preuvent certifiées locales
+
+{{< figure src="img/CSC_0350.JPG" title="Milan et buse se disputent le même territoire de chasse" lightbox="true" >}}
+
+{{< figure src="img/DSC_0163.JPG" title="Milan en chasse à Withimont" lightbox="true" >}}

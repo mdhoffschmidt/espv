@@ -39,13 +39,18 @@ La Grue cendrée est observée chaque année, principalement dans l'est de la Wa
 
 Très grande, avec un long cou qu'elle garde tendu en vol et de longues pattes. Grise avec les grandes plumes des ailes noires. Face et avant du cou noir, joue blanche se prolongeant par une ligne descendant sur les côtés du cou. De près, on peut observer une tache rouge sur le dessus de sa tête.
 
-[http://biodiversite.wallonie.be/fr/grus-grus](http://biodiversite.wallonie.be/fr/grus-grus.html?IDD=50334115&IDC=314)
+## Fiche descriptive
+
+Des fiches descriptives détaillées peuvent être trouvées ici :
+
+* [http://biodiversite.wallonie.be/fr/grus-grus](http://biodiversite.wallonie.be/fr/grus-grus.html?IDD=50334115&IDC=314)
+* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Migrations à hauteur de la ville de Bastogne
 
 La migration des Grues Cendrées est un événement saisonnier que les habitants de ce coin d'Ardenne connaissent bien.
 Début 2019, des habitants de Withimont, Longchamps, Monaville et Recogne ont consigné leurs observations (jours, heures, lieux et estimation du nombre d'individus). Toutes ces informations ne sont pas détaillées dans ce site mais peuvent être consultées auprès des personnes de contact. Pour compléter ces observations tout à fait locales, une enquête de voisinage dans les villages de Senonchamps, Hemroulle et Vaux a été faite en rencontrant des habitants de manière aléatoire. Tous certifient observer depuis longtemps les passages de milliers de Grues au-dessus de chez eux, chaque année dans les deux sens de migration.
-Ces données sont synthétisées sur la carte ci-jointe qui reprend les informations disponibles fin mai 2019. Les flèches jaunes correspondent aux observations et témoignages des habitants, la flèche rouge correspond à la seule observation consignée discrètement par le bureau d'Ingénieur Conseil CSG dans l'EIE relative au projet de parc éolien de Hemroulle  !
+Ces données sont synthétisées sur la carte ci-jointe qui reprend les informations disponibles fin mai 2019. Les flèches jaunes correspondent aux observations et témoignages des habitants, la flèche rouge correspond à la seule observation consignée discrètement par le bureau d'Ingénieur Conseil CSD dans l'EIE (Etude d'Incidence Environnemental) relative au projet de parc éolien de Hemroulle !
 Ces observations et témoignages confirment que la portion de l'autoroute E25 qui traverse le terroir d'Espérance Verte est bien un couloir important de migration de la Grue Cendrée.
 
 ![](/img/biodiversite/rapport_grue.jpg)
@@ -56,7 +61,9 @@ Ces observations et témoignages confirment que la portion de l'autoroute E25 qu
 
 ## Quelques preuves certifiées locales
 
-TODO
+{{< video src="video/20191228_115951.mp4" controls="yes" >}}
+
+{{< video src="video/20191228_115913_1.mp4" controls="yes" >}}
 
 ## Photos
 

@@ -28,12 +28,17 @@ Persécutée dans le passé, la Cigogne noire a commencé à se réinstaller en 
 
 De la taille du Héron cendré, la Cigogne noir a un plumage noir, à l'exception de son ventre blanc. Son bec et ses pattes sont rouges.
 
-[http://biodiversite.wallonie.be/fr/ciconia-nigra](http://biodiversite.wallonie.be/fr/ciconia-nigra.html?IDD=50334071&IDC=314)
+## Fiche descriptive
+
+Des fiches descriptives détaillées peuvent être trouvées ici :
+
+* [http://biodiversite.wallonie.be/fr/ciconia-nigra](http://biodiversite.wallonie.be/fr/ciconia-nigra.html?IDD=50334071&IDC=314)
+* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 
 Chaque année la Cigogne Noire est observée à l’étang de Fazone, dans la zone humide et
-les étangs du ruisseau de Darimont (Pré Famine), les étangs de Rolley, le ruisseau de Niblamont,  et en vol entre ces différentes zones.
+les étangs du ruisseau de Darimont (Pré Famine), les étangs de Rolley, le ruisseau de Niblamont, et en vol entre ces différentes zones.
 Voici un commentaire d’un amoureux de la nature, un 'lève tôt', reçu début avril 2019:
 
 "J'ai observé de manière presque annuelle des cigognes noires dans les environs de Recogne ou à Recogne. Il y avait, il y a quelques années, un nid à Rolley et je ne sais pas s'il est encore présent. Si ce n'est pas le cas, il doit y avoir un ou plusieurs nids pas très loin car les jeunes viennent pêcher durant l'été dans les petits ruisseaux à proximité. J'ai vu à de nombreuses reprises des cigognes en été, au petit matin qui venait pêcher dans le ruisseau du Pré Famine (surtout en aval de l'étang). J'ai comme superbe souvenir d'avoir été, très tôt le matin, survolé par une cigogne qui est passée à moins de cinq mètres au-dessus de ma tête (il y a peut-être dix ans déjà) : quand on sait qu'elle sont très farouches, c'est un souvenir exceptionnel !  J'en ai également observé quelques-unes perchées dans des arbres de Recogne. Aussi, en vol au dessus du village ou au-dessus de l'étang de Fazône. Pour l'instant, cela ne peut être que des adultes et ils sont normalement déjà tous revenus. Les jeunes sont encore loin d'être nés...
