@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Menaces"
-subtitle = "Ici il faut mettre un soustitre"
+subtitle = "En plus de l'emprise grandissante de l'habitat humain, comme un peu partout en zone rurale, plusieurs projets de parcs éoliens représentent des menaces très inquiétantes car particulièrement dommageables pour la biodiversité locale."
 
 [content]
   # Page type to display. E.g. project.

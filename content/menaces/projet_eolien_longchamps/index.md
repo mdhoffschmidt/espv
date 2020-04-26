@@ -35,7 +35,13 @@ Le projet est composé actuellement de 6 éoliennes de puissance unitaire de 2 �
 ![Plan 3](/img/eolien/projet_de_longchamp/eolien_plan_03.jpg)
 *Représentation 3D des Éoliennes*
 
-Suite à la RIP (Réunion d’Information Préliminaire) du 20/11/2018, 400 lettres d’opposition sont parvenues aux autorités. Le bureau d’ingénieur conseil CSG est chargé de l’ EIE ( Etude d’Impact sur l’Environnement) qui est actuellement en cours. L’ asbl  ‘Vent Responsable’ a été constituée pour défendre les intérêts des habitants concernés. Il est évident que le positionnement de ce projet dans le couloir de migration des Grues Cendrées pose un problème majeur et justifie à lui seul l'abandon du projet.
+Suite à la RIP (Réunion d’Information Préliminaire) du 20/11/2018, 400 lettres d’opposition sont parvenues aux autorités. Le bureau d’ingénieur conseil CSD est chargé de l’ EIE ( Etude d’Impact sur l’Environnement) qui est actuellement en cours. L’ asbl  ‘Vent Responsable’ a été constituée pour défendre les intérêts des habitants concernés. Il est évident que le positionnement de ce projet dans le couloir de migration des Grues Cendrées pose un problème majeur et justifie à lui seul l'abandon du projet.
+
+## Preuves certifiées locales et non trafiquées
+
+{{< figure src="img/DSC_0016.JPG" title=" Le 26/02/2019, un passage de grues cendrées au dessus du mat de mesure de 50 m de haut installé par VENTIS à l'endroit prévu pour l'éolienne n°4 (parking Est)" lightbox="true" >}}
+
+{{< figure src="img/Monaville 08.03.2019 CSC_0098.JPG" title="Un héron passe à proximité immédiate du même mat de mesure." lightbox="true" >}}
 
 ## Point de vue Esperance Verte
 
