@@ -46,4 +46,4 @@ A bientôt, Benjamin."
 
 ## Quelques preuves certifiées locales
 
-TODO ici il faut placer 2 photos.
+{{< gallery album="img" >}}
