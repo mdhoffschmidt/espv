@@ -20,3 +20,5 @@ image:
 ---
 
 # Grande avifaune
+
+Il y a bien sûr les corneilles noires qui hantent les espaces ouverts et colonisent les cimes des grands hêtres de lisières, et avec eux les corbeaux freux et leur bec gris clair. Il y a les geais qui sonnent l'alarme lors de votre approche en forêt. Il  y a les pics noirs farouches qui tambourinent sur les arbres morts ou malades. Et bien d'autres tels que faucons, épervier, ...

@@ -1,7 +1,7 @@
 ---
 title: "Avifaune aquatique"
 subtitle: "Ici il faut un soustitre"
-summary: "Ici il faut un résumé"
+summary: "Le Canard col vert, le Canard souchet, le Martin Pêcheur"
 authors: []
 tags: []
 categories: []
@@ -20,6 +20,10 @@ image:
 ---
 
 # Avifaune aquatique
+
+Qu'ils soient sédentaires ou migrateurs ils apprécient la proximité de nos zones humides, ruisseaux et grands étangs. Ils s'appellent, parmi bien d'autres  
+* Le canard Col Vert
+* Le canard Souchet
 
 ## Photos
 

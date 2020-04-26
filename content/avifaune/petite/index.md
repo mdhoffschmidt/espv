@@ -1,7 +1,7 @@
 ---
 title: "Petite avifaune"
 subtitle: "Ici il faut un soustitre"
-summary: "Ici il faut un résumé"
+summary: "Le Bouvreuil, le Chardonneret, la Grive musicienne, le Rouge Gorge, l'Hirondelle"
 authors: []
 tags: []
 categories: []
@@ -20,3 +20,5 @@ image:
 ---
 
 # Petite avifaune
+
+C'est parmi ces petits amis discrets que nous bénéficions des meilleurs chanteurs. Certains sont sédentaires comme le Rougegorge et d'autres migrateurs comme le Fauvette à Tête Noire. Certains sont colorés comme le Bouvreuil ou le Chardonneret d'autre sont ''ternes'' comme la Merlette ou l'Accenteur Mouchet ...

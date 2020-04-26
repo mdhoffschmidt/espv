@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Avifaune"
-subtitle = "Ici il faut mettre un soustitre"
+subtitle = "L'environnement rural typique constitué de successions de zones ''ouvertes'', telles que prairies et grands étangs, et zones ''fermées'' constituées de forêts plus ou moins denses attire et protège une grande variété d'animaux."
 
 [content]
   # Page type to display. E.g. project.
