@@ -28,8 +28,8 @@ Les Milans ont une envergure un peu supérieure à celle de la Buse variable et 
 
 Des fiches descriptives détaillées peuvent être trouvées ici :
 
+* {{% staticref "pdf/a074_milan_royal.pdf" "newtab" %}} Fiche descriptive {{% /staticref %}}
 * [http://biodiversite.wallonie.be/fr/milvus-milvus](http://biodiversite.wallonie.be/fr/milvus-milvus.html?IDD=50334091&IDC=312)
-* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 

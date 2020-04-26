@@ -30,8 +30,8 @@ Ce grand héron blanc connaît une très forte expansion de son aire de réparti
 
 Des fiches descriptives détaillées peuvent être trouvées ici :
 
+* {{% staticref "pdf/a027_grande_aigrette.pdf" "newtab" %}} Fiche descriptive {{% /staticref %}}
 * [http://biodiversite.wallonie.be/fr/ardea-alba](http://biodiversite.wallonie.be/fr/ardea-alba.html?IDD=50334300&IDC=314)
-* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 

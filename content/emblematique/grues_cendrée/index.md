@@ -43,8 +43,8 @@ Très grande, avec un long cou qu'elle garde tendu en vol et de longues pattes. 
 
 Des fiches descriptives détaillées peuvent être trouvées ici :
 
+* {{% staticref "pdf/a127_grue_cendree.pdf" "newtab" %}} Fiche descriptive {{% /staticref %}}
 * [http://biodiversite.wallonie.be/fr/grus-grus](http://biodiversite.wallonie.be/fr/grus-grus.html?IDD=50334115&IDC=314)
-* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Migrations à hauteur de la ville de Bastogne
 

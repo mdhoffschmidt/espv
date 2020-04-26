@@ -32,8 +32,8 @@ De la taille du Héron cendré, la Cigogne noir a un plumage noir, à l'exceptio
 
 Des fiches descriptives détaillées peuvent être trouvées ici :
 
+* {{% staticref "pdf/a030_cigogne_noire.pdf" "newtab" %}} Fiche descriptive {{% /staticref %}}
 * [http://biodiversite.wallonie.be/fr/ciconia-nigra](http://biodiversite.wallonie.be/fr/ciconia-nigra.html?IDD=50334071&IDC=314)
-* [http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832](http://biodiversite.wallonie.be/fr/liste-des-especes-de-la-directive-oiseaux-en-wallonie.html?IDD=1674&IDC=832)
 
 ## Observations
 
