@@ -56,8 +56,8 @@ Ces observations et témoignages confirment que la portion de l'autoroute E25 qu
 ![](/img/biodiversite/rapport_grue.jpg)
 *Migration des grues*
 
-![](/img/grues_20191228_120116.jpg)
-*le 28.12.2019 à 12h 01 min, les grues ont pris assez d'altitude au dessus de Monaville et s'en vont vers Hemroulle et la suite de leur voyage vers le Grand Sud ...*
+{{< figure src="img/grues_2019_12_28.jpg" title="le 28.12.2019 à 12h 01 min, les grues ont pris assez d'altitude au dessus de Monaville et s'en vont vers Hemroulle et la suite de leur voyage vers le Grand Sud ..." lightbox="true" >}}
+
 
 ## Quelques preuves certifiées locales
 
