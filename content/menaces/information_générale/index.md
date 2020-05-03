@@ -61,6 +61,17 @@ L'objectif ici est d'informer le lecteur quant à l'état d'avancement des proje
 
 ## Articles
 
+### Natagora et l'éolien Wallon
+
+Introduction :
+
+La nécessaire sortie des énergies fossiles devra notamment par le renouvelable.
+L'éolien, qui fait partie des modes de production accessibles en Wallonie, ne présente cependant pas que des avantages.
+Son développement, surtout, est aujourd'hui totalement anarchique.
+Il est temps que les politiques arrêtent de faire l'autruche. 
+
+{{% staticref "pdf/Natagora et l'éolien wallon.pdf" "newtab" %}} Lien vers l'article : Éolien tous les coups sont permis {{% /staticref %}}
+
 ### Les éoliennes font fuir les prédateurs et bouleversent la chaîne alimentaire (*19 décembre 2019*)
 
 Resumé:
