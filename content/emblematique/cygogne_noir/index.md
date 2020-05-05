@@ -46,7 +46,7 @@ A bientôt, Benjamin."
 
 ## Quelques preuves certifiées locales
 
-{{< video library="1" src="video/cigognes_noires_rolley.mp4" controls="yes" >}}
+{{< video library="1" src="video/cigognes_noires_rolley_480.mp4" controls="yes" >}}
 
 La vidéo ci-dessus a été prise fin avril 2020 et nous montre un couple de Cigognes noires qui niche à proximité de Rolley.
 

@@ -19,18 +19,6 @@ image:
   preview_only: false
 ---
 
-<!-- ---
-title: "Grue cendrée"
-date: 2019-06-25
-notes: "Chaque année des milliers de Grues Cendrées sont observées par les habitants.
-A hauteur de Bastogne le long de la E25, à la fin de l’hiver elles 'montent' vers le Nord-Est
-et à la fin de l’automne elles 'descendent' vers le Sud-Ouest.
-Durant la 2ème  quinzaine de février 2019, des habitants de Longchamps, Withimont, Monaville et Recogne ont, pour la 1ère fois, comptabilisé les passages. C’est impressionnant. Le détail peut être communiqué sur demande.
-Les informations collectées à ce jour (juin 2019) sont reportées (flèches jaunes) sur la carte ci-jointe éditée en réponse à l’EIE de CSD pour le projet d’éoliennes de Hemroulle qui ne mentionnait qu’une observation (flèche rouge) !
-![](/img/biodiversite/tableau_grue.png)
-*Migration des grues*"
---- -->
-
 # Grue Cendrée (Grus grus)
 
 ## Description
@@ -68,3 +56,15 @@ Ces observations et témoignages confirment que la portion de l'autoroute E25 qu
 ## Photos
 
 {{< gallery album="img" >}}
+
+<!-- ---
+title: "Grue cendrée"
+date: 2019-06-25
+notes: "Chaque année des milliers de Grues Cendrées sont observées par les habitants.
+A hauteur de Bastogne le long de la E25, à la fin de l’hiver elles 'montent' vers le Nord-Est
+et à la fin de l’automne elles 'descendent' vers le Sud-Ouest.
+Durant la 2ème  quinzaine de février 2019, des habitants de Longchamps, Withimont, Monaville et Recogne ont, pour la 1ère fois, comptabilisé les passages. C’est impressionnant. Le détail peut être communiqué sur demande.
+Les informations collectées à ce jour (juin 2019) sont reportées (flèches jaunes) sur la carte ci-jointe éditée en réponse à l’EIE de CSD pour le projet d’éoliennes de Hemroulle qui ne mentionnait qu’une observation (flèche rouge) !
+![](/img/biodiversite/tableau_grue.png)
+*Migration des grues*"
+--- -->
