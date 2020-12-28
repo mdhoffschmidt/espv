@@ -1,6 +1,6 @@
 ---
 title: "Petite avifaune"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "Le Bouvreuil, le Chardonneret, la Grive musicienne, le Rouge Gorge, l'Hirondelle"
 authors: []
 tags: []

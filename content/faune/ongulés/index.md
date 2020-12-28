@@ -1,6 +1,6 @@
 ---
 title: "Les Ongulés"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "Le Chevreuil, ..."
 authors: []
 tags: []

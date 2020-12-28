@@ -1,6 +1,6 @@
 ---
 title: "Avifaune aquatique"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "Le Canard col vert, le Canard souchet, le Martin Pêcheur"
 authors: []
 tags: []

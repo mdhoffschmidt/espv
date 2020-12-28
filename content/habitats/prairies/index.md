@@ -1,7 +1,7 @@
 ---
 title: "Prairies"
-subtitle: "Ici il faut mettre un soustitre"
-summary: "Ici il faut mettre un résumé"
+subtitle: ""
+summary: ""
 authors: []
 tags: []
 categories: []

@@ -1,7 +1,7 @@
 ---
 title: "Grande aigrette"
-subtitle: "Ici il faut un soustitre"
-summary: "Ici il faut un résumé"
+subtitle: ""
+summary: ""
 authors: []
 tags: []
 categories: []

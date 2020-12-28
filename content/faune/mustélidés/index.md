@@ -1,6 +1,6 @@
 ---
 title: "Les Mustélidés"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "L'Hermine, la fuine, ..."
 authors: []
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Grande avifaune"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "La Buse, le Héron, la Cigogne Blanche"
 authors: []
 tags: []

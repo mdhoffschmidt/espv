@@ -1,6 +1,6 @@
 ---
 title: "Les Carnassiers"
-subtitle: "Ici il faut un soustitre"
+subtitle: ""
 summary: "Renard, ..."
 authors: []
 tags: []
